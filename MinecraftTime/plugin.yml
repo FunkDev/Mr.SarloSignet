@@ -1,0 +1,5 @@
+name: HubMCTime
+main: tk.FunkDev.MinecraftTime.Time
+description: A plugin to get your hub world to a certain time!
+version: ALPHA
+author: funkemunky

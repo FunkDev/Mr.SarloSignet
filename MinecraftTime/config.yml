@@ -1,0 +1,8 @@
+#Welcome to the HubMCTime main config vALPHA!
+#Set the HubWorld to your Hub world.
+#Set the Time_In_Ticks_To_Set to time in ticks only.
+#Only integers or you will crash the plugin!
+#Morning = 0 Day = 2000 MidNight = 14000
+HubWorld: world
+Time_In_Ticks_To_Set: 2000
+Enabled: false
